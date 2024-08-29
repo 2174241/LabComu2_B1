@@ -1,1 +1,2 @@
-# LabComu2_B1
+# LabComu2_C1
+¡Bienvenido a nuestro repositorio de GitHub! Aquí encontrarás un compendio de evidencias y archivos que documentan nuestros avances en GNU Radio, así como los informes detallados de nuestras prácticas en el laboratorio de comunicaciones digitales. Este espacio no solo servirá como un archivo de nuestro aprendizaje y experimentación, sino también como una fuente de inspiración y colaboración para aquellos interesados en el fascinante mundo de las comunicaciones digitales. Únete a nosotros en este viaje de descubrimiento y mejora continua, donde cada archivo cuenta una historia de innovación y conocimiento compartido.
